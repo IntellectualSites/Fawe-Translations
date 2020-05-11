@@ -1,0 +1,3 @@
+files:
+  - source: /worldedit-core/src/main/resources/lang/strings.json
+    translation: /worldedit-core/src/main/resources/%two_letters_code%/%original_file_name%
