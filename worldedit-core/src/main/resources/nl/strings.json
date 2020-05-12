@@ -320,7 +320,7 @@
 	"worldedit.limit.set": "Wijzigingslimiet voor blokken ingesteld op {0}.",
 	"worldedit.limit.return-to-default": "(Gebruik //limit om de standaard waarde te gebruiken.)",
 	"worldedit.timeout.too-high": "Uw maximaal toegestane time-out is {0}ms.",
-	"worldedit.timeout.set": "Time-out tijd ingesteld op {0} ms.",
+	"worldedit.timeout.set": "Timeout time set to {0}ms.",
 	"worldedit.timeout.return-to-default": " (Gebruik //timeout om de standaard waarde te gebruiken.)",
 	"worldedit.fast.disabled": "Snelle modus uitgeschakeld.",
 	"worldedit.fast.enabled": "Snelle modus ingeschakeld. De belichting in de getroffen chunks kan verkeerd zijn en u moet misschien opnieuw deelnemen om veranderingen te zien.",
