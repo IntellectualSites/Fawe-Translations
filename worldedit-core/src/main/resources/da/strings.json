@@ -128,7 +128,7 @@
 	"fawe.worldedit.tool.superpickaxe.disabled": "Super Hakke slået fra.",
 	"fawe.worldedit.tool.superpickaxe.area.enabled": "Tilstand ændret. Venstre klik med en hakke. // for at slå det fra.",
 	"fawe.worldedit.snapshot.snapshot.loaded": "Snapshot '{0}' loaded; now restoring...",
-	"fawe.worldedit.snapshot.snapshot.set": "Snapshot set to: {0}",
+	"fawe.worldedit.snapshot.snapshot.set": "Snapshot sat til: {0}",
 	"fawe.worldedit.snapshot.snapshot.newest": "Now using newest snapshot.",
 	"fawe.worldedit.snapshot.snapshot.list.header": "Snapshots for world ({0}):",
 	"fawe.worldedit.snapshot.snapshot.list.footer": "Use /snap use [snapshot] or /snap use latest.",
