@@ -12,7 +12,7 @@
 	"fawe.info.worldedit.command.limit": "Please wait until your current action completes",
 	"fawe.info.worldedit.delayed": "Please wait while we process your FAWE action...",
 	"fawe.info.worldedit.run": "Apologies for the delay. Now executing: {0}",
-	"fawe.info.worldedit.complete": "Edit Completed.",
+	"fawe.info.worldedit.complete": "Edit completed.",
 	"fawe.info.require.selection.in.mask": "&7{0} of your selection is not within your mask. You can only make edits within allowed regions.",
 	"fawe.info.worldedit.volume": "&7You cannot select a volume of {0}. The maximum volume you can modify is {1}.",
 	"fawe.info.worldedit.iterations": "You cannot iterate {0} times. The maximum number of iterations allowed is {1}.",
