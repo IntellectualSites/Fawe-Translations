@@ -85,7 +85,7 @@
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "Your selection is large ({0} -> {1}, containing {3} blocks). Use //confirm to execute {2}",
 	"fawe.cancel.worldedit.cancel.reason": "Your WorldEdit action was cancelled: {0}.",
 	"fawe.cancel.worldedit.cancel.reason.manual": "Manual cancellation",
-	"fawe.cancel.worldedit.cancel.reason.low.memory": "Low memory",
+	"fawe.cancel.worldedit.cancel.reason.low.memory": "記憶體不足",
 	"fawe.cancel.worldedit.cancel.reason.max.changes": "改變過量方塊",
 	"fawe.cancel.worldedit.cancel.reason.max.checks": "Too many block checks",
 	"fawe.cancel.worldedit.cancel.reason.max.tiles": "過量方塊實體",
