@@ -129,7 +129,7 @@
 	"fawe.tips.tip.replace.marker": "Tipp: Ersetzen Sie einen Block durch Ihre vollständige Zwischenablage mit //replace wool #fullcopy",
 	"fawe.tips.tip.paste": "Tipp: Einfügen mit //place",
 	"fawe.tips.tip.lazycopy": "Tipp: lazycopy ist schneller",
-	"fawe.tips.tip.download": "Tip: Try out //download",
+	"fawe.tips.tip.download": "Tipp: Probieren Sie es aus //Download",
 	"fawe.tips.tip.rotate": "Tip: Orientate with //rotate",
 	"fawe.tips.tip.copy.pattern": "Tip: To use as a pattern try #copy",
 	"fawe.tips.tip.regen.0": "Tip: Use a biome with /regen [biome]",
