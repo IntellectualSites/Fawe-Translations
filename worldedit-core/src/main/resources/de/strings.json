@@ -143,7 +143,7 @@
 	"worldedit.biomeinfo.position": "Biomes at your position: {0}",
 	"worldedit.biomeinfo.selection": "Biomes in your selection: {0}",
 	"worldedit.brush.radius-too-large": "Maximum allowed brush radius: {0}",
-	"worldedit.brush.apply.description": "Apply brush, apply a function to every block",
+	"worldedit.brush.apply.description": "Pinsel anwenden, eine Funktion für jeden Block anwenden",
 	"worldedit.brush.apply.radius": "The size of the brush",
 	"worldedit.brush.apply.shape": "The shape of the region",
 	"worldedit.brush.apply.type": "Type of brush to use",
