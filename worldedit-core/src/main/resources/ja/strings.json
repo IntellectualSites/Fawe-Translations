@@ -42,7 +42,7 @@
 	"fawe.worldedit.brush.brush.catenary.direction": "Added point {0}, click the direction you want to create the spline",
 	"fawe.worldedit.brush.brush.line.secondary": "Splineを作成しました。",
 	"fawe.worldedit.brush.spline.primary.2": "Added position, Click the same spot to join!",
-	"fawe.worldedit.brush.brush.spline.secondary.error": "Not enough positions set!",
+	"fawe.worldedit.brush.brush.spline.secondary.error": "設定している位置が不足しています！",
 	"fawe.worldedit.brush.spline.secondary": "Splineを作成しました。",
 	"fawe.worldedit.brush.brush.source.mask.disabled": "ブラシのソースマスクを無効にしました。",
 	"fawe.worldedit.brush.brush.source.mask": "ブラシのソースマスクを設定しました。",
