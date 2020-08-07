@@ -23,7 +23,7 @@
 	"fawe.worldedit.copy.command.copy": "{0} 個のブロックをコピーしました。",
 	"fawe.worldedit.cut.command.cut.lazy": "{0} 個のブロックがペーストする際に削除されます",
 	"fawe.worldedit.paste.command.paste": "クリップボードの内容が {0} にペーストされました",
-	"fawe.worldedit.history.command.undo.disabled": "Undo disabled, use: //fast",
+	"fawe.worldedit.history.command.undo.disabled": "Undoを無効化する: //fast",
 	"fawe.worldedit.selection.selection.count": "{0} 個のブロックを数えました。",
 	"fawe.worldedit.anvil.world.is.loaded": "実行時にワールドがロードされているべきではありません。アンロードするか、-f でこれを無視します（セーブしてください）",
 	"fawe.worldedit.brush.brush.reset": "ブラシをリセットします。(Shift + クリック)",
