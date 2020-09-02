@@ -179,7 +179,7 @@
 	"worldedit.fast.disabled.already": "Быстрый режим уже выключен.",
 	"worldedit.fast.enabled.already": "Быстрый режим уже включен.",
 	"worldedit.fast.sideeffect.set": "Боковой эффект \"{0}\" установлен на {1}",
-	"worldedit.fast.sideeffect.get": "Side effect \"{0}\" is set to {1}",
+	"worldedit.fast.sideeffect.get": "Боковой эффект \"{0}\" установлен на {1}",
 	"worldedit.fast.sideeffect.already-set": "Side effect \"{0}\" is already {1}",
 	"worldedit.fast.sideeffect.set-all": "All side effects set to {0}",
 	"worldedit.reorder.current": "Порядок замены блоков: {0}",
