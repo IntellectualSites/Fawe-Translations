@@ -181,7 +181,7 @@
 	"worldedit.fast.sideeffect.set": "Боковой эффект \"{0}\" установлен на {1}",
 	"worldedit.fast.sideeffect.get": "Боковой эффект \"{0}\" установлен на {1}",
 	"worldedit.fast.sideeffect.already-set": "Боковой эффект \"{0}\" установлен на {1}",
-	"worldedit.fast.sideeffect.set-all": "All side effects set to {0}",
+	"worldedit.fast.sideeffect.set-all": "Все побочные эффекты установлены в {0}",
 	"worldedit.reorder.current": "Порядок замены блоков: {0}",
 	"worldedit.reorder.set": "Порядок замены блоков установлен на {0}",
 	"worldedit.gmask.disabled": "Глобальная маска отключена.",
