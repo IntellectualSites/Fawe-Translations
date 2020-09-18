@@ -520,14 +520,14 @@
 	"worldedit.sideeffect.entity_ai.description": "Updates Entity AI paths for the block changes",
 	"worldedit.sideeffect.events": "Mod/Plugin Events",
 	"worldedit.sideeffect.events.description": "Tells other mods/plugins about these changes when applicable",
-	"worldedit.sideeffect.state.on": "On",
-	"worldedit.sideeffect.state.delayed": "Delayed",
-	"worldedit.sideeffect.state.off": "Off",
+	"worldedit.sideeffect.state.on": "활성화",
+	"worldedit.sideeffect.state.delayed": "지연됨",
+	"worldedit.sideeffect.state.off": "비활성화",
 	"worldedit.sideeffect.box.current": "Current",
 	"worldedit.sideeffect.box.change-to": "Click to set to {0}",
 	"worldedit.help.command-not-found": "The command '{0}' could not be found.",
 	"worldedit.help.no-subcommands": "'{0}' has no sub-commands. (Maybe '{1}' is for a parameter?)",
 	"worldedit.help.subcommand-not-found": "The sub-command '{0}' under '{1}' could not be found.",
 	"worldedit.cli.stopping": "Stopping!",
-	"worldedit.cli.unknown-command": "Unknown command!"
+	"worldedit.cli.unknown-command": "존재하지 않는 명령어입니다!"
 }
