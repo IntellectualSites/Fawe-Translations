@@ -316,7 +316,7 @@
 	"worldedit.regen.failed": "无法重新生成区块。请检查控制台以获取详细信息。",
 	"worldedit.walls.changed": "已更改 {0} 个方块。",
 	"worldedit.faces.changed": "已更改 {0} 个方块。",
-	"worldedit.overlay.overlaid": "{0} blocks have been overlaid.",
+	"worldedit.overlay.overlaid": "已于选区顶部生成 {0} 个方块。",
 	"worldedit.naturalize.naturalized": "{0} block(s) have been made to look more natural.",
 	"worldedit.center.changed": "Center set. ({0} blocks changed)",
 	"worldedit.smooth.changed": "Terrain's height map smoothed. {0} blocks changed.",
