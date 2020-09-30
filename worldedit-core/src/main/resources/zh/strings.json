@@ -419,7 +419,7 @@
 	"worldedit.operation.affected.biome": "有 {0} 个生态群系受影响",
 	"worldedit.operation.affected.block": "有 {0} 个方块受影响",
 	"worldedit.operation.affected.column": "有 {0} 个队列受影响。",
-	"worldedit.operation.affected.entity": "{0} entities affected",
+	"worldedit.operation.affected.entity": "有 {0} 个实体受影响",
 	"worldedit.operation.deform.expression": "deformed using {0}",
 	"worldedit.error.invalid-number": "Number expected; string given.",
 	"worldedit.error.invalid-number.matches": "Number expected; string \"{0}\" given.",
