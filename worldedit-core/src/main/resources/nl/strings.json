@@ -137,6 +137,7 @@
 	"fawe.tips.tip.regen.1": "Tip: Use a seed with /regen [biome] [seed]",
 	"fawe.tips.tip.biome.pattern": "Tip: The #biome[forest] pattern can be used in any command",
 	"fawe.tips.tip.biome.mask": "Tip: Restrict to a biome with the `$jungle` mask",
+	"fawe.regen.time": "Regenerating region, this might take a while!",
 	"worldedit.expand.description.vert": "Breid de selectie verticaal uit tot de wereldlimieten.",
 	"worldedit.expand.expanded": "Regio uitgebreid met {0} blokken",
 	"worldedit.expand.expanded.vert": "Regio uitgebreid met {0} blokken (van boven naar beneden).",
