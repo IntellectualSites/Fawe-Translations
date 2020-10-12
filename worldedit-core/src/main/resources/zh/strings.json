@@ -137,6 +137,7 @@
 	"fawe.tips.tip.regen.1": "提示：使用 /regen [biome] [seed] [生态群系] [地图种子] 来通过地图种子重新生成生态群系",
 	"fawe.tips.tip.biome.pattern": "提示：形如模板 #biome[forest] 适用于任何指令",
 	"fawe.tips.tip.biome.mask": "提示：您可以使用 \"$jungle\" 遮罩限制生物群系范围",
+	"fawe.regen.time": "Regenerating region, this might take a while!",
 	"worldedit.expand.description.vert": "已垂直扩展选择区域至世界限制高度。",
 	"worldedit.expand.expanded": "区域扩展了 {0} 个方块距离",
 	"worldedit.expand.expanded.vert": "区域扩展了 {0} 个方块距离(从上至下)。",
