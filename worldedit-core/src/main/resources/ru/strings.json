@@ -137,6 +137,7 @@
 	"fawe.tips.tip.regen.1": "Совет: Попробуйте использовать сид с командой //regen [biome] [seed]",
 	"fawe.tips.tip.biome.pattern": "Совет: Шаблон #biome[forest] может быть использован в любой команде",
 	"fawe.tips.tip.biome.mask": "Совет: Ограничьте только для конкретного биома с помощью маски `$jungle`",
+	"fawe.regen.time": "Regenerating region, this might take a while!",
 	"worldedit.expand.description.vert": "Вертикально расширить выделение до границ мира.",
 	"worldedit.expand.expanded": "Регион расширен на {0} блока(ов)",
 	"worldedit.expand.expanded.vert": "Регион расширен на {0} блока(ов) (сверху вниз).",
