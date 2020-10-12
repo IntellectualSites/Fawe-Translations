@@ -137,6 +137,7 @@
 	"fawe.tips.tip.regen.1": "Tip: Použijte seed s /regen [biome] [seed]",
 	"fawe.tips.tip.biome.pattern": "Tip: Vzor #biome[forest] může být použitý v libovolném příkazu",
 	"fawe.tips.tip.biome.mask": "Tip: Omezte biom s maskou `$jungle`",
+	"fawe.regen.time": "Regenerating region, this might take a while!",
 	"worldedit.expand.description.vert": "Vertikálně rozšiřte výběr na limity světa.",
 	"worldedit.expand.expanded": "Oblast rozšířena o {0} bloků",
 	"worldedit.expand.expanded.vert": "Oblast rozšířena o {0} bloků (od shora dolů).",
