@@ -137,6 +137,7 @@
 	"fawe.tips.tip.regen.1": "ヒント: /regen [biome] [seed] でシードを使用します",
 	"fawe.tips.tip.biome.pattern": "ヒント: パターン #biome[forest] は任意のコマンドで使用できます。",
 	"fawe.tips.tip.biome.mask": "ヒント: $jungle マスクで編集を特定のバイオームに制限します",
+	"fawe.regen.time": "Regenerating region, this might take a while!",
 	"worldedit.expand.description.vert": "選択範囲のY座標を限界まで拡大します。",
 	"worldedit.expand.expanded": "領域を {0} ブロック拡大しました。",
 	"worldedit.expand.expanded.vert": "領域を {0} ブロック上下全体に拡大しました。",
