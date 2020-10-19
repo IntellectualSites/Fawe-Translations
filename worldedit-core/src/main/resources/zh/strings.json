@@ -452,6 +452,8 @@
 	"worldedit.sideeffect.lighting.description": "更新方块光照",
 	"worldedit.sideeffect.neighbors": "邻近提醒",
 	"worldedit.sideeffect.neighbors.description": "通知附近方块的更改",
+	"worldedit.sideeffect.update": "Update",
+	"worldedit.sideeffect.update.description": "Notifies the changed block",
 	"worldedit.sideeffect.validation": "校验",
 	"worldedit.sideeffect.validation.description": "验证并修复不一致的世界状态，如断裂的方块",
 	"worldedit.sideeffect.entity_ai": "实体 AI",
