@@ -452,6 +452,8 @@
 	"worldedit.sideeffect.lighting.description": "Обновляет освещение блоков",
 	"worldedit.sideeffect.neighbors": "Соседи",
 	"worldedit.sideeffect.neighbors.description": "Оповещает соседние блоки об изменениях",
+	"worldedit.sideeffect.update": "Update",
+	"worldedit.sideeffect.update.description": "Notifies the changed block",
 	"worldedit.sideeffect.validation": "Проверка",
 	"worldedit.sideeffect.validation.description": "Проверяет и исправляет некорректное состояние мира, такое как разъединённые блоки",
 	"worldedit.sideeffect.entity_ai": "ИИ сущностей",
