@@ -84,6 +84,8 @@
 	"fawe.cancel.worldedit.cancel.count": "已取消 {0} 次编辑。",
 	"fawe.cancel.worldedit.cancel.reason.confirm": "使用 //confirm 以确认执行 {2}",
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "您的选择范围过大(自 {0} -> {1}, 共包含 {3} 个块)。使用 //confirm 以确认执行 {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.radius": "Your radius is large ({0} > {1}). Use //confirm to execute {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.limit": "You're exceeding your limit for this action ({0} > {1}). Use //confirm to execute {2}",
 	"fawe.cancel.worldedit.cancel.reason": "您的 WorldEdit 操作已被取消: {0}。",
 	"fawe.cancel.worldedit.cancel.reason.manual": "手动取消",
 	"fawe.cancel.worldedit.cancel.reason.low.memory": "内存偏低",
