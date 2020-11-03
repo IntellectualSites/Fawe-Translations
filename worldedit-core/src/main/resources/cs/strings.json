@@ -84,6 +84,8 @@
 	"fawe.cancel.worldedit.cancel.count": "Zrušeno {0} úprav.",
 	"fawe.cancel.worldedit.cancel.reason.confirm": "Použij //confirm pro vykonání {2}",
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "Tvůj výběr je příliš velký ({0} -> {1}, obsahující {3} bloků). Použij //confirm k provedení {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.radius": "Your radius is large ({0} > {1}). Use //confirm to execute {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.limit": "You're exceeding your limit for this action ({0} > {1}). Use //confirm to execute {2}",
 	"fawe.cancel.worldedit.cancel.reason": "Tvoje akce s WorldEditem byla zrušena: {0}.",
 	"fawe.cancel.worldedit.cancel.reason.manual": "Manuální zrušení",
 	"fawe.cancel.worldedit.cancel.reason.low.memory": "Nedostatek paměti",
