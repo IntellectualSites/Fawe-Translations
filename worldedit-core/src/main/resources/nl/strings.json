@@ -84,6 +84,8 @@
 	"fawe.cancel.worldedit.cancel.count": "{0} bewerkingen geannuleerd.",
 	"fawe.cancel.worldedit.cancel.reason.confirm": "Gebruik //confirm om {2} uit te voeren",
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "Uw selectie is te groot ({0} -> {1}, bevat {3} blokken). Gebruik //confirm om {2} uit te voeren",
+	"fawe.cancel.worldedit.cancel.reason.confirm.radius": "Your radius is large ({0} > {1}). Use //confirm to execute {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.limit": "You're exceeding your limit for this action ({0} > {1}). Use //confirm to execute {2}",
 	"fawe.cancel.worldedit.cancel.reason": "Uw WorldEdit actie is geannuleerd: {0}.",
 	"fawe.cancel.worldedit.cancel.reason.manual": "Handmatige annulering",
 	"fawe.cancel.worldedit.cancel.reason.low.memory": "Weinig geheugen",
