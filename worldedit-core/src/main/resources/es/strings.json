@@ -84,6 +84,8 @@
 	"fawe.cancel.worldedit.cancel.count": "Se cancelaron {0} ediciones.",
 	"fawe.cancel.worldedit.cancel.reason.confirm": "Usa ///confirm para ejecutar {2}",
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "Su selección es grande ({0} -> {1}, que contiene {3} bloques). Usa ///confirm para ejecutar {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.radius": "Your radius is large ({0} > {1}). Use //confirm to execute {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.limit": "You're exceeding your limit for this action ({0} > {1}). Use //confirm to execute {2}",
 	"fawe.cancel.worldedit.cancel.reason": "Tu acción de WorldEdit fue cancelada: {0}.",
 	"fawe.cancel.worldedit.cancel.reason.manual": "Cancelación manual",
 	"fawe.cancel.worldedit.cancel.reason.low.memory": "Memoria baja",
