@@ -84,6 +84,8 @@
 	"fawe.cancel.worldedit.cancel.count": "{0} düzenleme iptal edildi.",
 	"fawe.cancel.worldedit.cancel.reason.confirm": "{2} çalıştırmak için //confirm",
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "Your selection is large ({0} -> {1}, containing {3} blocks). Use //confirm to execute {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.radius": "Your radius is large ({0} > {1}). Use //confirm to execute {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.limit": "You're exceeding your limit for this action ({0} > {1}). Use //confirm to execute {2}",
 	"fawe.cancel.worldedit.cancel.reason": "Your WorldEdit action was cancelled: {0}.",
 	"fawe.cancel.worldedit.cancel.reason.manual": "Manuel iptal",
 	"fawe.cancel.worldedit.cancel.reason.low.memory": "Düşük bellek",
