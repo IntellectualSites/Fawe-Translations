@@ -84,6 +84,8 @@
 	"fawe.cancel.worldedit.cancel.count": "{0} 件の編集をキャンセルしました。",
 	"fawe.cancel.worldedit.cancel.reason.confirm": "//confirm で {2} を実行します",
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "Your selection is large ({0} -> {1}, containing {3} blocks). Use //confirm to execute {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.radius": "Your radius is large ({0} > {1}). Use //confirm to execute {2}",
+	"fawe.cancel.worldedit.cancel.reason.confirm.limit": "You're exceeding your limit for this action ({0} > {1}). Use //confirm to execute {2}",
 	"fawe.cancel.worldedit.cancel.reason": "WorldEdit のアクションはキャンセルされました： {0}",
 	"fawe.cancel.worldedit.cancel.reason.manual": "手動キャンセル",
 	"fawe.cancel.worldedit.cancel.reason.low.memory": "低メモリー",
