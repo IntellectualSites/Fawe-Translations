@@ -306,7 +306,7 @@
 	"worldedit.paste.selected": "Selected clipboard paste region.",
 	"worldedit.rotate.no-interpolation": "Note: Interpolation is not yet supported, so angles that are multiples of 90 is recommended.",
 	"worldedit.rotate.rotated": "The clipboard copy has been rotated.",
-	"worldedit.flip.flipped": "The clipboard copy has been flipped.",
+	"worldedit.flip.flipped": "Die Kopie in der Zwischenablage wurde gedreht.",
 	"worldedit.clearclipboard.cleared": "Zwischenablage geleert.",
 	"worldedit.set.done": "Vorgang abgeschlossen.",
 	"worldedit.set.done.verbose": "Vorgang abgeschlossen ({0}).",
