@@ -303,7 +303,7 @@
 	"worldedit.calc.invalid": "'{0}' konnte nicht als gültiger Ausdruck interpretiert werden",
 	"worldedit.calc.invalid.with-error": "'{0}' konnte nicht als gültiger Ausdruck interpretiert werden: '{1}'",
 	"worldedit.paste.pasted": "Die Zwischenablage wurde bei {0} eingefügt",
-	"worldedit.paste.selected": "Ausgewählter Zwischenablage Einfügebereich.",
+	"worldedit.paste.selected": "Einfügebereich der Zwischenablage wurde ausgewählt.",
 	"worldedit.rotate.no-interpolation": "Hinweis: Die Interpolation wird noch nicht unterstützt, daher werden Winkel empfohlen, die ein Vielfaches von 90 sind.",
 	"worldedit.rotate.rotated": "Die Kopie in der Zwischenablage wurde rotiert.",
 	"worldedit.flip.flipped": "Die Kopie in der Zwischenablage wurde gedreht.",
