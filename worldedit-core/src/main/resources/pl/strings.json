@@ -32,7 +32,7 @@
 	"fawe.worldedit.brush.brush.scroll.action.unset": "Usunięto akcje pędzla scroll",
 	"fawe.worldedit.brush.brush.visual.mode.set": "Ustawiono tryb wizualny na {0}",
 	"fawe.worldedit.brush.brush.target.mode.set": "Ustawiono tryb docelowy na {0}",
-	"fawe.worldedit.brush.brush.target.offset.set": "Ustaw przesunięcie docelowe na {0}",
+	"fawe.worldedit.brush.brush.target.offset.set": "Ustaw przesunięcie celu na {0}",
 	"fawe.worldedit.brush.brush.equipped": "Ustawiono pędzel na {0}",
 	"fawe.worldedit.brush.brush.try.other": "There are other more suitable brushes e.g.,\n - //br height [radius=5] [#clipboard|file=null] [rotation=0] [yscale=1.00]",
 	"fawe.worldedit.brush.brush.copy": "Left click the base of an object to copy, right click to paste. Increase the brush radius if necessary.",
