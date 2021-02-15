@@ -66,7 +66,7 @@
 	"fawe.worldedit.visitor.visitor.block": "Dotyczy {0} bloków",
 	"fawe.worldedit.selector.selector.fuzzy.pos1": "Ustawiono i rozszerzono region od {0} {1}.",
 	"fawe.worldedit.selector.selector.fuzzy.pos2": "Dodano rozszerzenie od {0} {1}.",
-	"fawe.worldedit.help.command.clarifying.bracket": "Added clarifying bracket for {0}",
+	"fawe.worldedit.help.command.clarifying.bracket": "Dodano wspornik wyjaśniający dla {0}",
 	"fawe.progress.progress.message": "{1}/{0} ({2}%) @{3}cps {4}s left",
 	"fawe.progress.progress.finished": "[ Wykonano! ]",
 	"fawe.error.command.syntax": "Użycie: {0}",
