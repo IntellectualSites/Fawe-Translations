@@ -147,6 +147,7 @@
 	"worldedit.biomeinfo.lineofsight": "視線の先にあるバイオーム: {0}",
 	"worldedit.biomeinfo.position": "あなたの位置のバイオーム: {0}",
 	"worldedit.biomeinfo.selection": "編集範囲のバイオーム: {0}",
+	"worldedit.error.no-match": "No match for '{0}'.",
 	"worldedit.brush.radius-too-large": "ブラシの最大半径: {0}",
 	"worldedit.brush.apply.description": "Apply brush, apply a function to every block",
 	"worldedit.brush.apply.radius": "ブラシの半径",
