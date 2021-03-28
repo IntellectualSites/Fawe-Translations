@@ -147,6 +147,7 @@
 	"worldedit.biomeinfo.lineofsight": "Biomes at line of sight point: {0}",
 	"worldedit.biomeinfo.position": "Biomen op uw positie: {0}",
 	"worldedit.biomeinfo.selection": "Biomen in uw selectie: {0}",
+	"worldedit.error.no-match": "No match for '{0}'.",
 	"worldedit.brush.radius-too-large": "Maximale toegestane kwast radius: {0}",
 	"worldedit.brush.apply.description": "Kwast toepassen, pas een functie toe op elk blok",
 	"worldedit.brush.apply.radius": "De grootte van de kwast",
