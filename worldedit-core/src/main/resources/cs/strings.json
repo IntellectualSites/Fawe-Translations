@@ -147,6 +147,7 @@
 	"worldedit.biomeinfo.lineofsight": "Biomy na přímce zraku: {0}",
 	"worldedit.biomeinfo.position": "Biomy na vaši pozici: {0}",
 	"worldedit.biomeinfo.selection": "Biomy ve vašem výběru: {0}",
+	"worldedit.error.no-match": "No match for '{0}'.",
 	"worldedit.brush.radius-too-large": "Maximální povolený poloměr štětce: {0}",
 	"worldedit.brush.apply.description": "Aplikovat štětec, aplikovat funkci na každý blok",
 	"worldedit.brush.apply.radius": "Velikost štětce",
