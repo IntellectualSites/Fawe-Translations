@@ -147,6 +147,7 @@
 	"worldedit.biomeinfo.lineofsight": "Biomes en point de mire : {0}",
 	"worldedit.biomeinfo.position": "Biomes à votre position: {0}",
 	"worldedit.biomeinfo.selection": "Biomes dans votre sélection: {0}",
+	"worldedit.error.no-match": "Aucune correspondance pour '{0}'.",
 	"worldedit.brush.radius-too-large": "Rayon maximum autorisé de la brosse : {0}",
 	"worldedit.brush.apply.description": "Appliquer la brosse, appliquer une fonction à tous les blocs",
 	"worldedit.brush.apply.radius": "La taille de la brosse",
