@@ -147,6 +147,7 @@
 	"worldedit.biomeinfo.lineofsight": "Биомы в точке прямой видимости: {0}",
 	"worldedit.biomeinfo.position": "Биомы на вашей позиции: {0}",
 	"worldedit.biomeinfo.selection": "Биомы в вашем выделении: {0}",
+	"worldedit.error.no-match": "Нет совпадений для '{0}'.",
 	"worldedit.brush.radius-too-large": "Максимальный разрешённый радиус кисти: {0}",
 	"worldedit.brush.apply.description": "Кисть применения, применяет функцию к каждому блоку",
 	"worldedit.brush.apply.radius": "Размер кисти",
