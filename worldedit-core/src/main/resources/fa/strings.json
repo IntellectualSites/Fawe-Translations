@@ -147,6 +147,7 @@
 	"worldedit.biomeinfo.lineofsight": "Biomes at line of sight point: {0}",
 	"worldedit.biomeinfo.position": "Biome haye mogheiate shoma: {0}",
 	"worldedit.biomeinfo.selection": "Biome haye mogheiate shoma: {0}",
+	"worldedit.error.no-match": "No match for '{0}'.",
 	"worldedit.brush.radius-too-large": "Maximum allowed brush radius: {0}",
 	"worldedit.brush.apply.description": "Apply brush, apply a function to every block",
 	"worldedit.brush.apply.radius": "Andazeye Brush",
