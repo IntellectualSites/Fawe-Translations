@@ -147,6 +147,7 @@
 	"worldedit.biomeinfo.lineofsight": "Biomes at line of sight point: {0}",
 	"worldedit.biomeinfo.position": "Biomas em sua posição: {0}",
 	"worldedit.biomeinfo.selection": "Biomas em sua seleção: {0}",
+	"worldedit.error.no-match": "No match for '{0}'.",
 	"worldedit.brush.radius-too-large": "Raio máximo permitido de pincéis: {0}",
 	"worldedit.brush.apply.description": "Apply brush, apply a function to every block",
 	"worldedit.brush.apply.radius": "O tamanho do pincel",
