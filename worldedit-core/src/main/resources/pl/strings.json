@@ -11,7 +11,7 @@
 	"fawe.info.worldedit.bypassed": "Obecnie ignorujesz restrykcje FAWE'a.",
 	"fawe.info.worldedit.restricted": "Twoje możliwości edycji FAWE'a nie są teraz ograniczone.",
 	"fawe.info.worldedit.oom.admin": "Możliwe opcje:\n - //fast\n - Wykonaj mniejszą edycje\n - Przydziel więcej pamięci\n - Wyłącz `max-memory-percent`",
-	"fawe.info.temporarily-not-working": "Temporarily not working",
+	"fawe.info.temporarily-not-working": "Tymczasowo nie działa",
 	"fawe.web.generating.link": "Przesyłanie {0}, proszę czekać...",
 	"fawe.web.generating.link.failed": "Nie udało się wygenerować linku do pobrania!",
 	"fawe.web.download.link": "{0}",
