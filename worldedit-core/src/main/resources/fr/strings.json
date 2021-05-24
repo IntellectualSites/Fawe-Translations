@@ -108,6 +108,8 @@
 	"fawe.error.no-failure": "Cela ne devrait pas entraîner d'échec",
 	"fawe.error.invalid-bracketing": "Parenthésage invalide, vous manquerait-il '{0}' ?",
 	"fawe.error.too-simple": "La complexité doit être entre 0 et 100",
+	"fawe.error.input-parser-exception": "Chaîne vide non valide au lieu du booléen.",
+	"fawe.error.invalid-boolean": "Booléen invalide {0}",
 	"fawe.cancel.worldedit.cancel.count": "{0} modifications annulées.",
 	"fawe.cancel.worldedit.cancel.reason.confirm": "Utiliser //confirm pour exécuter {2}",
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "Votre sélection est grande ({0} -> {1}, contenant {3} blocs). Utilisez //confirm pour exécuter {2}",
