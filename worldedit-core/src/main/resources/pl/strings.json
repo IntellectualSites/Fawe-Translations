@@ -108,6 +108,8 @@
 	"fawe.error.no-failure": "This shouldn't result in any failure",
 	"fawe.error.invalid-bracketing": "Niepoprawny nawias, brakuje '{0}'.",
 	"fawe.error.too-simple": "Complexity must be in the range 0-100",
+	"fawe.error.input-parser-exception": "Invalid empty string instead of boolean.",
+	"fawe.error.invalid-boolean": "Invalid boolean {0}",
 	"fawe.cancel.worldedit.cancel.count": "Anulowano {0} edycji.",
 	"fawe.cancel.worldedit.cancel.reason.confirm": "Użyj //confirm aby wykonać {2}",
 	"fawe.cancel.worldedit.cancel.reason.confirm.region": "Your selection is large ({0} -> {1}, containing {3} blocks). Use //confirm to execute {2}",
