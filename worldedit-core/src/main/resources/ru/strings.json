@@ -462,7 +462,7 @@
 	"worldedit.command.player-only": "Эта команда должна быть использована игроком.",
 	"worldedit.command.error.report": "&cPlease report this error: [See console]",
 	"worldedit.command.deprecation": "This command is deprecated.",
-	"worldedit.command.deprecation-message": "Please use '{0}' instead.",
+	"worldedit.command.deprecation-message": "Пожалуйста, используйте вместо этого \" {0}\".",
 	"worldedit.pastebin.uploading": "(Пожалуйста, подождите... отправляем вывод на сервис хранения текста...)",
 	"worldedit.session.cant-find-session": "Не удалось найти сессию для {0}",
 	"worldedit.platform.no-file-dialog": "Файловые диалоги не поддерживаются в вашем окружении.",
