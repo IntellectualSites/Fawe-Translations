@@ -11,7 +11,7 @@
 	"fawe.info.worldedit.bypassed": "Momenteel de FAWE begrenzing aan het omzeilen.",
 	"fawe.info.worldedit.restricted": "&6Je FAWE bewerkingen zijn nu begrenst.",
 	"fawe.info.worldedit.oom.admin": "Mogelijke opties:\n - //fast\n - Kleinere bewerkingen maken\n - Meer werkgeheugen toewijzen\n - `max-memory-percent` uitschakelen",
-	"fawe.info.temporarily-not-working": "Temporarily not working",
+	"fawe.info.temporarily-not-working": "Tijdelijk buiten werking",
 	"fawe.web.generating.link": "{0} wordt geüpload, even geduld...",
 	"fawe.web.generating.link.failed": "Kan downloadlink niet genereren!",
 	"fawe.web.download.link": "{0}",
