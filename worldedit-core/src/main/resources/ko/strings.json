@@ -62,7 +62,7 @@
 	"fawe.worldedit.schematic.schematic.saved": "{0}이(가) 저장되었습니다",
 	"fawe.worldedit.schematic.schematic.none": "파일을 찾을 수 없습니다.",
 	"fawe.worldedit.clipboard.clipboard.uri.not.found": "You do not have {0} loaded",
-	"fawe.worldedit.clipboard.clipboard.cleared": "Clipboard cleared",
+	"fawe.worldedit.clipboard.clipboard.cleared": "클립보드를 비웠습니다.",
 	"fawe.worldedit.clipboard.clipboard.invalid.format": "Unknown clipboard format:  {0}",
 	"fawe.worldedit.visitor.visitor.block": "{0}개의 블록이 영향받았습니다",
 	"fawe.worldedit.selector.selector.fuzzy.pos1": "Region set and expanded from {0} {1}.",
