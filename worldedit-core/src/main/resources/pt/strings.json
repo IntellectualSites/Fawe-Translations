@@ -67,7 +67,7 @@
 	"fawe.worldedit.visitor.visitor.block": "{0} blocos afetados",
 	"fawe.worldedit.selector.selector.fuzzy.pos1": "Região selecionada e expandida de {0} à {1}.",
 	"fawe.worldedit.selector.selector.fuzzy.pos2": "Adicionado uma expansão de {0} {1}.",
-	"fawe.worldedit.help.command.clarifying.bracket": "Added clarifying bracket for {0}",
+	"fawe.worldedit.help.command.clarifying.bracket": "Adicionado colchete de esclarecimento para {0}",
 	"fawe.progress.progress.message": "{1}/{0} ({2}%) em {3}cps {4}s restantes",
 	"fawe.progress.progress.finished": "[ Concluído! ]",
 	"fawe.error.command.syntax": "Uso: {0}",
