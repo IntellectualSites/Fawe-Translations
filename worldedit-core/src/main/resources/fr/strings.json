@@ -170,7 +170,7 @@
 	"fawe.tips.tip.regen.1": "Astuce: Utilisez une seed avec /regen [biome] [seed]",
 	"fawe.tips.tip.biome.pattern": "Astuce: le motif #biome[forest] peut être utilisé dans n'importe quelle commande",
 	"fawe.tips.tip.biome.mask": "Astuce: Restreignez à un biome avec le masque `$jungle`",
-	"fawe.regen.time": "Régénération de la région, cela peut prendre un certain temps!",
+	"fawe.regen.time": "Régénération de la région, cela peut prendre un certain temps !",
 	"worldedit.expand.description.vert": "Étendre verticalement la sélection aux limites du monde.",
 	"worldedit.expand.expanded": "Région étendue de {0} blocs",
 	"worldedit.expand.expanded.vert": "Région étendue de {0} blocs (de haut en bas).",
