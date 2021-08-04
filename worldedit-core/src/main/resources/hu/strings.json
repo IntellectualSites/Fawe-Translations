@@ -485,7 +485,7 @@
 	"worldedit.tool.tree.equip": "Tree tool bound to {0}.",
 	"worldedit.tool.tree.obstructed": "A tree can't go there.",
 	"worldedit.tool.info.equip": "Info tool bound to {0}.",
-	"worldedit.tool.inspect.equip": "Inspect tool bound to {0}.",
+	"worldedit.tool.inspect.equip": "Vizsgálati eszköz hozzá kötve ehhez: {0}.",
 	"worldedit.tool.info.blockstate.hover": "Block state",
 	"worldedit.tool.info.internalid.hover": "Internal ID",
 	"worldedit.tool.info.legacy.hover": "Legacy id:data",
