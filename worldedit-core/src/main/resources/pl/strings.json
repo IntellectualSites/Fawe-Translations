@@ -139,7 +139,7 @@
 	"fawe.cancel.reason.max.tiles": "Zbyt wiele bloków",
 	"fawe.cancel.reason.max.entities": "Zbyt wiele obiektów",
 	"fawe.cancel.reason.max.iterations": "Maksymalna liczba iteracji",
-	"fawe.cancel.reason.outside.level": "Outside world",
+	"fawe.cancel.reason.outside.level": "Poza światem",
 	"fawe.cancel.reason.outside.region": "Outside allowed region (bypass with /wea, or disable `region-restrictions` in config.yml)",
 	"fawe.cancel.reason.no.region": "No allowed region (bypass with /wea, or disable `region-restrictions` in config.yml)",
 	"fawe.cancel.reason.no.region.reason": "No allowed region: {0}",
