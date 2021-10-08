@@ -141,7 +141,7 @@
 	"fawe.cancel.reason.max.iterations": "Максимум итераций",
 	"fawe.cancel.reason.outside.level": "Вне мира",
 	"fawe.cancel.reason.outside.region": "Вне разрешённого региона (обойдите с помощью /wea или отключите `region-restrictions` в config.yml)",
-	"fawe.cancel.reason.no.region": "No allowed region (bypass with /wea, or disable `region-restrictions` in config.yml)",
+	"fawe.cancel.reason.no.region": "Нет разрешённого региона (обойдите с помощью /wea или отключите `region-restrictions` в config.yml)",
 	"fawe.cancel.reason.no.region.reason": "No allowed region: {0}",
 	"fawe.cancel.reason.no.region.plot.noworldeditflag": "Plot flag NoWorldeditFlag set",
 	"fawe.cancel.reason.no.region.plot.owner.offline": "Region owner offline",
