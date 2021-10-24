@@ -13,7 +13,7 @@
   "fawe.info.worldedit.restricted": "您目前的 FAWE 编辑正在受到限制。",
   "fawe.info.worldedit.oom.admin": "该选项可能适用于:\n - //fast\n - 进行较小规模的编辑\n - 分配更多的内存\n - 禁用 `max-memory-percent`",
   "fawe.info.temporarily-not-working": "暂时不可用",
-  "fawe.info.update-available": "FastAsyncWorldEdit 的更新可用。 您的 {0} 个版本已过期。\n您正在运行版本 {1}，最新版本是 {2}。\n在 {3} 更新",
+  "fawe.info.update-available": "FastAsyncWorldEdit 的更新可用。 您的 {0} (s) 个版本已过期。\n您正在运行版本 {1}，最新版本是 {2}。\n在 {3} 更新",
   "fawe.web.generating.link": "正在上传 {0}，请稍候...",
   "fawe.web.generating.link.failed": "生成下载链接失败！",
   "fawe.web.download.link": "{0}",
