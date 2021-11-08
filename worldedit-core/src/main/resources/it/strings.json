@@ -13,7 +13,7 @@
   "fawe.info.worldedit.restricted": "Le tue modifiche FAWE sono ora limitate.",
   "fawe.info.worldedit.oom.admin": "Possibili opzioni:\n - //fast\n - Esegui modifiche più piccole\n - Alloca più memoria\n - Disabilita `max-memory-percent`",
   "fawe.info.temporarily-not-working": "Temporaneamente non funzionante",
-  "fawe.info.update-available": "È disponibile un aggiornamento per FastAsyncWorldEdit. Sei {0} costruzione(i) obsoleta.\nStai eseguendo la versione {1}, l'ultima versione è {2}.\nAggiornamento a {3}",
+  "fawe.info.update-available": "È disponibile un aggiornamento per FastAsyncWorldEdit. Sei di {0} versione(i) obsoleta.\nStai usando la versione {1}, l'ultima versione è {2}.\nAggiornamento a {3}",
   "fawe.web.generating.link": "Caricamento in corso {0}, attendere...",
   "fawe.web.generating.link.failed": "Impossibile generare il link di scaricamento!",
   "fawe.web.download.link": "{0}",
