@@ -238,7 +238,7 @@
   "worldedit.error.unknown-block": "Block-Name '{0}' wurde nicht erkannt.",
   "worldedit.error.disallowed-block": "Block '{0}' ist nicht erlaubt (siehe WorldEdit Konfiguration).",
   "worldedit.error.max-changes": "Maximale Anzahl veränderter Blöcke in einer Operation erreicht ({0}).",
-  "worldedit.error.max-brush-radius": "Maximum brush radius (in worldedit-config.yml): {0}",
+  "worldedit.error.max-brush-radius": "Maximaler Pinselradius (in worldedit-config.yml): {0}",
   "worldedit.error.max-radius": "Maximum radius (in worldedit-config.yml): {0}",
   "worldedit.error.unknown-direction": "Unbekannte Richtung: {0}",
   "worldedit.error.empty-clipboard": "Ihre Zwischenablage ist leer. Verwenden Sie zuerst //copy.",
