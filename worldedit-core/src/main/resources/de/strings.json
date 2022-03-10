@@ -114,7 +114,7 @@
   "fawe.error.outside-range-lower": "Argument {0} darf nicht kleiner als {1} sein",
   "fawe.error.outside-range-upper": "Argument {0} darf nicht größer als {1} sein",
   "fawe.error.argument-size-mismatch": "Argument {0} darf nicht größer sein als Argument {1}",
-  "fawe.error.input-parser-exception": "Ungültige leere Zeichenkette statt wahrheitswert.",
+  "fawe.error.input-parser-exception": "Ungültige leere Zeichenkette statt Wahrheitswert.",
   "fawe.error.invalid-boolean": "Invalider Wahrheitswert {0}",
   "fawe.error.schematic.not.found": "Schematik {0} nicht gefunden.",
   "fawe.error.parse.invalid-dangling-character": "Ungültiges hängendes Zeichen {0}.",
