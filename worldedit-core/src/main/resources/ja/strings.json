@@ -13,7 +13,7 @@
   "fawe.info.worldedit.restricted": "あなたの FAWE の編集が制限されます。",
   "fawe.info.worldedit.oom.admin": "可能な回避策：\n - //fast\n - より小さい編集を行う\n - 十分なメモリを確保する\n - `max-memory-percent` を無効にする",
   "fawe.info.temporarily-not-working": "一時的に機能していません",
-  "fawe.info.update-available": "An update for FastAsyncWorldEdit is available. You are {0} build(s) out of date.\nYou are running build {1}, the latest version is build {2}.\nUpdate at {3}",
+  "fawe.info.update-available": "FastAsyncWorldEditのアップデートがご利用可能です。あなたが使用するバージョンは {0} 個前のビルドです。\nあなたが実行しているビルドは {1} で、最新のビルドは {2} です。\nこちらからアップデートしてください {3}",
   "fawe.web.generating.link": "{0} をアップロードしています。お待ちください……",
   "fawe.web.generating.link.failed": "ダウンロードリンクの生成に失敗しました！",
   "fawe.web.download.link": "{0}",
