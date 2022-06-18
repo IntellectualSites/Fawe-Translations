@@ -88,7 +88,7 @@
   "fawe.error.parser.invalid-data": "无效的数据：{0}",
   "fawe.error.unsupported": "尚未支持！",
   "fawe.error.invalid-block-type": "不与有效方块类型匹配：{0}",
-  "fawe.error.nbt.forbidden": "您无权使用 nbt。缺少权限： {0}",
+  "fawe.error.nbt.forbidden": "您不得使用 nbt。缺少权限： {0}",
   "fawe.error.invalid-arguments": "无效的数字参数。预期值：{0}",
   "fawe.error.unrecognised-tag": "无法被识别的标签：{0} {1}",
   "fawe.error.unknown-block-tag": "未知方块标签：{0}",
