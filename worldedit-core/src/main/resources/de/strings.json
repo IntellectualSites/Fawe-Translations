@@ -152,7 +152,7 @@
   "fawe.cancel.reason.no.region.plot.owner.only": "Nur Besitzer dieser Region können dies Bearbeiten",
   "fawe.cancel.reason.no.region.not.added": "Nicht zur Region hinzugefügt",
   "fawe.cancel.reason.player-only": "Dies dürfen nur Spieler ausführen.",
-  "fawe.cancel.reason.actor-required": "Dieser Vorgang erfordert einen Akteur.",
+  "fawe.cancel.reason.actor-required": "Für diese Operation ist ein Akteur erforderlich.",
   "fawe.cancel.worldedit.failed.load.chunk": "Überspringe Laden des Chunks: {0};{1}. Versuche, 'chunk-wait' zu erhöhen.",
   "fawe.navigation.no.block": "Kein Block in Sicht! (oder zu weit weg)",
   "fawe.selection.sel.max": "Maximal {0} Punkte.",
