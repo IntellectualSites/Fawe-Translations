@@ -42,7 +42,7 @@
   "fawe.worldedit.brush.brush.height.invalid": "Неприпустимий файл висоти карти ({0})",
   "fawe.worldedit.brush.brush.spline": "Натисніть, щоб додати точку, натисніть ту ж точку, щоб закінчити",
   "fawe.worldedit.brush.brush.line.primary": "Додана точка {0}, натисніть іншу позицію щоб створити рядок",
-  "fawe.worldedit.brush.brush.catenary.direction": "Додана точка {0}, натисніть на напрямок, який ви хочете створити сплайн",
+  "fawe.worldedit.brush.brush.catenary.direction": "Додана точка {0}, натисніть на напрямок, в який ви хочете створити сплайн",
   "fawe.worldedit.brush.brush.line.secondary": "Створений сплайн",
   "fawe.worldedit.brush.spline.primary.2": "Додана позиція, натисніть ту ж точку доступу, щоб приєднатися!",
   "fawe.worldedit.brush.brush.spline.secondary.error": "Не достатньо посад!",
