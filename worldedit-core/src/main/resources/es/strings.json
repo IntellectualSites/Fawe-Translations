@@ -384,7 +384,7 @@
   "worldedit.contract.contracted": "{0} bloques contratados por la región.",
   "worldedit.shift.shifted": "Región desplazada.",
   "worldedit.outset.outset": "Inicio de la región.",
-  "worldedit.inset.inset": "Region inset.",
+  "worldedit.inset.inset": "Inicio de la región.",
   "worldedit.size.offset": "{0}: {1} @ {2} ({3} bloques)",
   "worldedit.size.type": "Tipo: {0}",
   "worldedit.size.size": "Tamaño: {0}",
