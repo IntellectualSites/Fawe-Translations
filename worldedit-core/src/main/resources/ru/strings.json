@@ -123,7 +123,7 @@
   "fawe.error.parse.unknown-transform": "Неизвестное преобразование: {0}, См. {1}",
   "fawe.error.parse.no-clipboard": "Добавьте что-либо в буфер обмена прежде чем воспользоваться {0}",
   "fawe.error.parse.no-clipboard-source": "Буфер обмена не найден в заданном источнике: {0}",
-  "fawe.error.clipboard.invalid": "===== ПОВРЕЖДЁННЫЙ БУФЕР ОБМЕНА ====",
+  "fawe.error.clipboard.invalid": "====== ПОВРЕЖДЁННЫЙ БУФЕР ОБМЕНА ======",
   "fawe.error.clipboard.invalid.info": "Файл: {0} (Размер: {1})",
   "fawe.error.clipboard.load.failure": "Не удалось загрузить буфер обмена. Возможно буфер обмена всё ещё записывается с другого сервера?!",
   "fawe.error.clipboard.on.disk.version.mismatch": "Несоответствие версии буфера обмена. Пожалуйста, удалите папку буфера обмена и перезапустите сервер.",
