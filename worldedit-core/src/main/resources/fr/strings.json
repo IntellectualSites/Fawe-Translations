@@ -130,7 +130,7 @@
   "fawe.error.clipboard.invalid": "====== PRESSE-PAPIERS INVALIDE ======",
   "fawe.error.clipboard.invalid.info": "Fichier : {0} (longueur : {1})",
   "fawe.error.clipboard.load.failure": "Impossible de charger le presse-papiers. Il se peut que le celui-ci soit toujours en cours d'écriture depuis un autre serveur ?!",
-  "fawe.error.clipboard.on.disk.version.mismatch": "Clipboard version mismatch: expected {0} but got {1}. It is recommended you delete the clipboard folder and restart the server.\nYour clipboard folder is located at {2}.",
+  "fawe.error.clipboard.on.disk.version.mismatch": "Incompatibilité de la version du presse-papiers : attendu {0} mais obtenu {1}. Il est recommandé de supprimer le dossier du presse-papiers et de redémarrer le serveur.\nVotre dossier de presse-papiers se trouve à {2}.",
   "fawe.error.limit.disallowed-block": "Votre limite n'autorise pas l'utilisation du bloc '{0}'",
   "fawe.error.limit.disallowed-property": "Votre limite n'autorise pas l'utilisation de la propriété '{0}'",
   "fawe.error.region-mask-invalid": "Masque de région invalide : {0}",
