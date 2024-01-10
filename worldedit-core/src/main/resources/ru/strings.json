@@ -285,7 +285,7 @@
   "worldedit.brush.butcher.equip": "Выбрана убивающая кисть ({0}).",
   "worldedit.brush.operation.equip": "Выбрана кисть {0}.",
   "worldedit.brush.none.equip": "Кисть отвязана от текущего предмета.",
-  "worldedit.brush.none.equipped": "У вас нет кисти, привязанной к вашему текущему предмету. Попробуйте /brush sphere для базовой кисти.",
+  "worldedit.brush.none.equipped": "Вы не привязаны к вашему текущему предмету. Для получения базовой кисти воспользуйтесь сферой /brush.",
   "worldedit.setbiome.changed": "Биомы были изменены в {0} столбцах. Вам может потребоваться перезайти в игру (или закрыть мир и открыть снова), чтобы увидеть изменения.",
   "worldedit.setbiome.not-locatable": "Отправитель команды должен присутствовать в мире, чтобы использовать флаг -p.",
   "worldedit.drawsel.disabled": "Серверный CUI выключен.",
