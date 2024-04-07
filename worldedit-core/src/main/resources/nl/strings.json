@@ -125,7 +125,7 @@
   "fawe.error.parse.unknown-mask": "Onbekende mask: {0}, Zie: {1}",
   "fawe.error.parse.unknown-pattern": "Onbekend patroon: {0}, Zie: {1}",
   "fawe.error.parse.unknown-transform": "Onbekende transformatie: {0}, Zie: {1}",
-  "fawe.error.parse.no-clipboard": "Om '{0}' te gebruiken, kopieer je eerst iets naar de klembord",
+  "fawe.error.parse.no-clipboard": "Om '{0}' te gebruiken, kopieer je eerst iets naar het klembord",
   "fawe.error.parse.no-clipboard-source": "Geen klembord gevonden aan de opgegeven bron: {0}",
   "fawe.error.clipboard.invalid": "====== ONGELDIGE KLEMBORD ======",
   "fawe.error.clipboard.invalid.info": "Bestand: {0} (len: {1})",
