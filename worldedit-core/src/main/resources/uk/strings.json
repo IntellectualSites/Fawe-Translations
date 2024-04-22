@@ -4,7 +4,7 @@
   "fawe.worldedit.history.find.element.more": " - Зміни: {0}\n - Межі: {1} -> {2}\n - Екстра: {3}\n - Блоків виділено: {4}",
   "fawe.worldedit.history.find.hover": "{0} блоків змінено, натисніть щоб дізнатися більше",
   "fawe.worldedit.history.distr.summary_null": "Не вдалося знайти підсумок редагування для введених даних.",
-  "fawe.info.lighting.propagate.selection": "Lighting has been propagated in {0} chunks.",
+  "fawe.info.lighting.propagate.selection": "Освітлення поширювалось в {0} фрагментах.",
   "fawe.info.updated.lighting.selection": "Освітлення оновлено в {0} чанках. (Оновлення може зайняти декілька секунд)",
   "fawe.info.set.region": "Для вибору встановлено поточний дозволений регіон",
   "fawe.info.worldedit.toggle.tips.on": "Вимкнені FAWE підсказки.",
