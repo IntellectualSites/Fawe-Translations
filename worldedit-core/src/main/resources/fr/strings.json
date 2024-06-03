@@ -4,7 +4,7 @@
   "fawe.worldedit.history.find.element.more": " - Changements : {0}\n - Bordures : {1} -> {2}\n - Supplément : {3}\n - Taille sur le disque : {4}",
   "fawe.worldedit.history.find.hover": "{0} blocs modifiés, cliquez pour plus d'informations",
   "fawe.worldedit.history.distr.summary_null": "Impossible de trouver le résumé de l'édition des entrées.",
-  "fawe.info.lighting.propagate.selection": "L'éclairage a été propagé en morceaux {0}.",
+  "fawe.info.lighting.propagate.selection": "L'éclairage a été propagé à {0} chunk.",
   "fawe.info.updated.lighting.selection": "L'éclairage a été mis à jour dans {0} chunks. (L'envoi des paquets peut prendre une seconde)",
   "fawe.info.set.region": "Sélection définie à votre région actuellement autorisée",
   "fawe.info.worldedit.toggle.tips.on": "Conseils FAWE désactivés.",
