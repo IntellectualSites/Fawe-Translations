@@ -55,7 +55,7 @@
   "fawe.worldedit.brush.brush.transform.disabled": "Pincel transformador desactivado",
   "fawe.worldedit.brush.brush.transform": "Transformación de pincel establecida",
   "fawe.worldedit.rollback.rollingback.index": "...",
-  "fawe.worldedit.rollback.rollback.element": "{0} undone.",
+  "fawe.worldedit.rollback.rollback.element": ".",
   "fawe.worldedit.tool.tool.inspect": "Herramienta de inspección establecida como {0}.",
   "fawe.worldedit.tool.tool.inspect.info": "{0} cambió {1} a {2} hace {3}",
   "fawe.worldedit.tool.tool.inspect.info.footer": "Total: {0} cambios",
