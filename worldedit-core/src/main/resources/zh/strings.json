@@ -14,7 +14,7 @@
   "fawe.info.worldedit.oom.admin": "可能的選項:\n - //fast\n - 進行較小規模的編輯\n - 分配更多記憶體\n - 禁用 `max-memory-percent`",
   "fawe.info.temporarily-not-working": "暫時不可用",
   "fawe.info.light-blocks": "光源方塊比光源更可靠，請使用光源方塊。此指令已過時，將在未來版本中移除。",
-  "fawe.info.update-available": "FastAsyncWorldEdit 有可用的更新。你已落後 {0} 個版本。\n您目前執行的是版本 {1}，最新版本為版本 {2}。\n請至 {3} 更新。",
+  "fawe.info.update-available": "FastAsyncWorldEdit 有可用的更新。你已落後 {0} 個版本。\n你目前執行的版本為 {1}，最新版本為 {2}。\n請至 {3} 更新。",
   "fawe.web.generating.link": "正上載 {0}, 請稍等......",
   "fawe.web.generating.link.failed": "載點生成失敗!",
   "fawe.web.download.link": "{0}",
