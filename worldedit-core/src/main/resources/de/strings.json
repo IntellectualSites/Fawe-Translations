@@ -54,7 +54,7 @@
   "fawe.worldedit.brush.brush.source.mask": "Globale Quellmaske festgelegt",
   "fawe.worldedit.brush.brush.transform.disabled": "Pinsel Transformation deaktiviert",
   "fawe.worldedit.brush.brush.transform": "Globale Transformation festgelegt",
-  "fawe.worldedit.rollback.rollingback.index": "Undoing {0} ...",
+  "fawe.worldedit.rollback.rollingback.index": "...",
   "fawe.worldedit.rollback.rollback.element": "{0} undone.",
   "fawe.worldedit.tool.tool.inspect": "Untersuchungs-Werkzeug wurde an {0} gebunden.",
   "fawe.worldedit.tool.tool.inspect.info": "{0} geändert {1} zu {2} vor {3}",
