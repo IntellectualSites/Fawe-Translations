@@ -54,7 +54,7 @@
   "fawe.worldedit.brush.brush.source.mask": "Исходная маска кисти установлена",
   "fawe.worldedit.brush.brush.transform.disabled": "Преобразование кисти отключено",
   "fawe.worldedit.brush.brush.transform": "Преобразование кисти установлено",
-  "fawe.worldedit.rollback.rollingback.index": "Undoing {0} ...",
+  "fawe.worldedit.rollback.rollingback.index": "",
   "fawe.worldedit.rollback.rollback.element": "{0} отменено.",
   "fawe.worldedit.tool.tool.inspect": "Инструмент осмотра привязан к {0}.",
   "fawe.worldedit.tool.tool.inspect.info": "{0} изменён {1} на {2} {3} назад",
