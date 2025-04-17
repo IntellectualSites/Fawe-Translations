@@ -1,7 +1,7 @@
 {
   "prefix": "&8(&4&lFAWE&8)&7 {0}",
   "fawe.worldedit.history.find.element": "&2{0} {1} &7ago &3{2}m &6{3} &c/{4}",
-  "fawe.worldedit.history.find.element.more": " - Changes: {0}\n - Bounds: {1} -> {2}\n - Extra: {3}\n - Size on Disk: {4}",
+  "fawe.worldedit.history.find.element.more": "",
   "fawe.worldedit.history.find.hover": "{0} 블록이 변경되었습니다. 더 많은 정보를 보려면 클릭하세요",
   "fawe.worldedit.history.distr.summary_null": "Could not find edit summary for inputs.",
   "fawe.info.lighting.propagate.selection": "Lighting has been propagated in {0} chunks.",
