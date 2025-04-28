@@ -633,7 +633,7 @@
   "worldedit.selection.polygon2d.explain.secondary": "Punkt #{0} bei {1} hinzugefügt.",
   "worldedit.selection.sphere.explain.secondary": "Radius gesetzt auf {0}.",
   "worldedit.selection.sphere.explain.secondary-defined": "Radius gesetzt auf {0} ({1}).",
-  "worldedit.sideeffect.history": "History",
+  "worldedit.sideeffect.history": "Verlauf",
   "worldedit.sideeffect.history.description": "Writes history of the change",
   "worldedit.sideeffect.heightmaps": "Heightmaps",
   "worldedit.sideeffect.heightmaps.description": "Updates heightmaps",
