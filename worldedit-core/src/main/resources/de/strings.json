@@ -300,7 +300,7 @@
   "worldedit.brush.none.equip": "Pinselbindung aufgehoben vom aktuellen Gegenstand.",
   "worldedit.brush.none.equipped": "Du hast an dein aktuelles Item keine Brush gebunden. Versuche /brush sphere für eine einfache Brush.",
   "worldedit.setbiome.changed": "Die Biome wurden für {0} Blöcke angepasst. Du musst eventuell dein Spiel neu starten (oder die Welt erneut öffnen) um eine Veränderung zu sehen.",
-  "worldedit.setbiome.warning": "You may have to re-join your game (or close and re-open your world) to see changes.",
+  "worldedit.setbiome.warning": "Möglicherweise musst du deinem Spiel wieder beitreten (oder deine Welt schließen und wieder öffnen), um Änderungen sehen zu können.",
   "worldedit.setbiome.not-locatable": "Der Befehlssender muss in der Welt sein, um die -p Flag zu verwenden.",
   "worldedit.drawsel.disabled": "Server-CUI (Vorschau) deaktiviert.",
   "worldedit.drawsel.enabled": "Server CUI aktiviert. Es werden nur Kubische Regionen mit einer maximalen Größe von {0}x{1}x{2} unterstützt.",
