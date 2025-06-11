@@ -635,7 +635,7 @@
   "worldedit.selection.sphere.explain.secondary-defined": "Yarıçap {0} ({1}) olarak ayarlandı.",
   "worldedit.sideeffect.history": "History",
   "worldedit.sideeffect.history.description": "Writes history of the change",
-  "worldedit.sideeffect.heightmaps": "Heightmaps",
+  "worldedit.sideeffect.heightmaps": "",
   "worldedit.sideeffect.heightmaps.description": "Updates heightmaps",
   "worldedit.sideeffect.lighting": "Aydınlatma",
   "worldedit.sideeffect.lighting.description": "Blok aydınlatma güncellemesi",
