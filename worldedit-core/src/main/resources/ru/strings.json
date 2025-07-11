@@ -371,7 +371,7 @@
   "worldedit.schematic.save.failed-directory": "Не удалось создать папку под схемы!",
   "worldedit.schematic.save.saving": "(Пожалуйста, подождите... сохраняем схему.)",
   "worldedit.schematic.save.still-saving": "(Please wait... still saving schematic.)",
-  "worldedit.schematic.share.unsupported-format": "The schematic share destination \"{0}\" does not support the \"{1}\" format.",
+  "worldedit.schematic.share.unsupported-format": "",
   "worldedit.schematic.share.response.arkitektonika.download": "Download: {0}",
   "worldedit.schematic.share.response.arkitektonika.delete": "Delete: {0}",
   "worldedit.schematic.share.response.arkitektonika.click-here": "[Click here]",
