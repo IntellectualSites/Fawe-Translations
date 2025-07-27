@@ -141,7 +141,7 @@
   "fawe.error.occurred-continuing": "Произошла игнорируемая ошибка во время редактирования: {0}",
   "fawe.error.limit.max-brush-radius": "Maximum brush radius in limit: {0}",
   "fawe.error.limit.max-radius": "Maximum radius in limit: {0}",
-  "fawe.error.no-valid-on-hotbar": "No valid block types on hotbar",
+  "fawe.error.no-valid-on-hotbar": "Нет допустимых типов блоков на панели быстрого доступа",
   "fawe.error.no-process-non-synchronous-edit": "No processor holder was found but edit is non-synchronous",
   "fawe.cancel.count": "Отменено {0} изменений.",
   "fawe.cancel.reason.confirm": "Используйте //confirm, чтобы выполнить {0}",
