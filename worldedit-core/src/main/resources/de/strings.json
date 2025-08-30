@@ -417,7 +417,7 @@
   "worldedit.outset.outset": "Region expandiert.",
   "worldedit.inset.inset": "Region verkleinert.",
   "worldedit.trim.trim": "Region trimmed.",
-  "worldedit.trim.no-blocks": "No blocks matched the trim mask.",
+  "worldedit.trim.no-blocks": "Keine Blöcke stimmten mit der Trimmmaske überein.",
   "worldedit.size.offset": "{0}: {1} @ {2} ({3} Blöcke)",
   "worldedit.size.type": "Typ: {0}",
   "worldedit.size.size": "Größe: {0}",
