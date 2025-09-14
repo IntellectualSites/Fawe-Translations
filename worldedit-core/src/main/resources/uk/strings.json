@@ -14,7 +14,7 @@
   "fawe.info.worldedit.oom.admin": "Можливі параметри:\n - //fast\n - Менші зміни\n - Виділяти більше пам'яті\n - вимкнути `max-memory-percent`",
   "fawe.info.temporarily-not-working": "Тимчасово не працює",
   "fawe.info.light-blocks": "Світлові блоки надійніші, ніж джерела світла, будь ласка, використовуйте блоки. Ця команда застаріла та буде видалена в наступній версії.",
-  "fawe.info.update-available.build": "An update for FastAsyncWorldEdit is available. You are {0} build(s) behind.\nYou are running build {1}, the latest build is {2}.\nUpdate at {3}",
+  "fawe.info.update-available.build": "",
   "fawe.info.update-available.release": "",
   "fawe.web.generating.link": "Завантаження {0}, будь ласка, зачекайте...",
   "fawe.web.generating.link.failed": "Не вдалося згенерувати посилання для завантаження!",
