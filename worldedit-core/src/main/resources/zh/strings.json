@@ -13,7 +13,7 @@
   "fawe.info.worldedit.restricted": "您目前的 FAWE 编辑正在受到限制。",
   "fawe.info.worldedit.oom.admin": "该选项可能适用于:\n - //fast\n - 进行较小规模的编辑\n - 分配更多的内存\n - 禁用 `max-memory-percent`",
   "fawe.info.temporarily-not-working": "暂时不可用",
-  "fawe.info.light-blocks": "光源方块比光源更可靠，请使用此方块。这个命令已经过时，将在未来的版本中被移除。",
+  "fawe.info.light-blocks": "Light blocks are more reliable than light sources, please use the blocks. This command is deprecated and will be removed in a future version.",
   "fawe.info.update-available.build": "可用的 FastAsyncWorldEdit 更新。您是 {0} 版本后面的。\n您正在运行 {1}，最新版本是 {2}。\n更新于 {3}",
   "fawe.info.update-available.release": "快速AsyncWorld编辑有新版本可用： {0}。您目前在 {1}上。从 {2}、 {3} 或 {4} 下载。",
   "fawe.web.generating.link": "正在上传 {0}，请稍候...",
